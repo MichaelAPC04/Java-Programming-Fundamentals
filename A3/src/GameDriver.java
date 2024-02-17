@@ -2,7 +2,7 @@
  * The following class is the driver class, "GameDriver". This class contains the main method, which is responsible
  * for the execution of the program. In this class, the user inputs six teams that are to play against each other. The
  * results of all games and each teams' statistics are displayed as well through invoking other class' various methods.
- * @author Michael Anthony Patrick Cetrola
+ * @author MAPC
  * @version 1.0.0
  */
 

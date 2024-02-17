@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Name: Michael Anthony Patrick Cetrola
+ * Name: MAPC
  * Version number: 1.0.0
  * The following class consists of four different "tasks" (fields) that call on different methods to run
  * task1 calculates length of hypotenuse, task2 a students' name, ID, WAM input, outputs it with an updated WAM

@@ -4,7 +4,7 @@
  * orders in the system, deliver any orders, or exit the system. This class consists of one field, a default and
  * non-default constructor, three implemented (overridden) methods from the Order interface and the main method for the
  * program's execution. Any getters, setters or a toString method are not necessary as this is the driver class.
- * @author Michael Anthony Patrick Cetrola
+ * @author MAPC
  * @version 1.0.0
  */
 

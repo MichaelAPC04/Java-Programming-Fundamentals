@@ -1,5 +1,5 @@
 /**
- * @author Michael Anthony Patrick Cetrola
+ * @author MAPC
  * @version 1.0.0
  * The following class consists of one field, a default and non-default constructor and eight methods (one getter and
  * one setter). With the "heights" Arraylist, the class can add and remove manually specified user heights, return

@@ -1,5 +1,5 @@
 /**
- * @author Michael Anthony Patrick Cetrola
+ * @author MAPC
  * @version 1.0.0
  * The following class executes many methods defined in the HeightDatabase class by calling on them through two
  * instances, "db" and "db2". The main function directly invokes and prints "task3" and "task6" as seen below.

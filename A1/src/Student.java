@@ -1,5 +1,5 @@
 /**
- * Name: Michael Anthony Patrick Cetrola
+ * Name: MAPC
  * Version number: 1.0.0
  * The following class consists of three fields, one non-default and default constructor and
  * three accessor and mutator methods for the student class
